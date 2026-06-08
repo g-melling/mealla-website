@@ -8,7 +8,7 @@ body {
   flex-direction: column;
   margin: 0;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-  background-image: url('floral.jpg');
+  background-image: url('img/floral.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
